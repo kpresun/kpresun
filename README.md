@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🇦🇹. I am interested in scoping, and developing solutions that simplifies life. 
 Currently I am using JavaScript, ReactJS, and NodeJS.
 
-You can see what I am currently up to on [https://kyang-project-portfolio.netlify.app/][1].
+You can see what I am currently up to on [https://kyang-project-portfolio.netlify.app/].
 
 ## Connect with me!
 You can find me on LinkedIn [LinkedIn](https://www.linkedin.com/in/kong-yang-founder/)
