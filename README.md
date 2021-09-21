@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a Full stack software engineer based in Minneapolis, MN.
-🇦🇹. I am interested in scoping, and developing solutions that simplifies life. 
+- I am a Full stack software engineer based in Minneapolis, MN. I am interested in scoping, and developing solutions that simplifies life. 
 Currently I am using JavaScript, ReactJS, and NodeJS.
 
 You can see what I am currently up to on [https://kyang-project-portfolio.netlify.app/].
