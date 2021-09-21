@@ -42,5 +42,8 @@ Email me [kpyang2414@gmail.com](kpyang2414@gmail.com)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpresun&hide=java,html&title_color=000000&text_color=000000" />
+</a>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=kpresun&show_icons=true&theme=react)
