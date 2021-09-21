@@ -21,8 +21,8 @@ Currently I am using JavaScript, ReactJS, and NodeJS.
 You can see what I am currently up to on [https://kyang-project-portfolio.netlify.app/].
 
 ## Connect with me!
-LinkedIn [LinkedIn](https://www.linkedin.com/in/kong-yang-founder/)
-Email [kpyang2414@gmail.com](kpyang2414@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kong-yang-founder/)
+- [kpyang2414@gmail.com](kpyang2414@gmail.com)
 
 ## Technical Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
